@@ -17,7 +17,11 @@ Forbidden:
 • growth indicators
 
 Nothing here may suggest: “come closer”
+
 “learn more”
+
 “support”
+
 “buy”
+
 “follow”
